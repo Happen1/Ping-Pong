@@ -1,6 +1,28 @@
 .header {
-  background-color: #F5DFB3;
+  background-color: black;
   height: 200px;
   padding-top: 20px;
   text-align: center;
+  color: snow;
 }
+
+.leftdiv {
+  padding-left: 20px;
+  background-color: gold;
+  float: left;
+  width: 300px;
+  padding-top: 10px;
+  margin-right: 50px;
+  padding-bottom: 200px;
+}
+
+.nm {
+  padding-left: 50px;
+  padding-right: 20px;
+}
+
+
+/*
+.rightdiv {
+  background-color: silver;
+}*/
