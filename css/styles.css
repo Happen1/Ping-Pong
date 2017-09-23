@@ -1,3 +1,7 @@
+html {
+  background-color: silver;
+}
+
 .header {
   background-color: black;
   height: 200px;
@@ -10,7 +14,7 @@
   padding-left: 20px;
   background-color: gold;
   float: left;
-  width: 300px;
+  width: 20%;
   padding-top: 10px;
   margin-right: 50px;
   padding-bottom: 200px;
@@ -21,8 +25,11 @@
   padding-right: 20px;
 }
 
-
-/*
 .rightdiv {
   background-color: silver;
-}*/
+  float: right;
+  width: 70%;
+  padding-top: 10px;
+  margin-right: 50px;
+  padding-bottom: 200px;
+}
