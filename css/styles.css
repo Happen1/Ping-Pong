@@ -8,6 +8,11 @@ html {
   padding-top: 20px;
   text-align: center;
   color: snow;
+  font-family: 'Bubbler One', sans-serif;
+}
+
+h1 {
+  font-family: monospace;
 }
 
 .leftdiv {
@@ -18,6 +23,7 @@ html {
   padding-top: 10px;
   margin-right: 50px;
   padding-bottom: 200px;
+  font-family: 'Bubbler One', sans-serif;
 }
 
 .nm {
